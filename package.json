@@ -1,0 +1,25 @@
+{
+  "name": "node-express-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "e.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chillbuilds/node-express-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chillbuilds/node-express-server/issues"
+  },
+  "homepage": "https://github.com/chillbuilds/node-express-server#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "path": "^0.12.7"
+  }
+}
